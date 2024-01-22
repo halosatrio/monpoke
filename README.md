@@ -1,6 +1,6 @@
 ## INTRO
 
-pokedex app as an exercise attempt and take an early start to work on <that company> coding test.
+pokedex app as an exercise attempt and take an early start to work on \<that company\> coding test.
 
 ## TECH STACKS
 
