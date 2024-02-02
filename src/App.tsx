@@ -1,7 +1,7 @@
 import "./App.css";
 import { ThemeProvider } from "@emotion/react";
 import { Toaster } from "react-hot-toast";
-import { NavigationMenu } from "components/navigation-menu";
+import NavigationMenu from "components/NavigationMenu";
 import Routes from "routes";
 import { theme } from "theme";
 import { SoundContextProvider } from "utils/sound-context";
