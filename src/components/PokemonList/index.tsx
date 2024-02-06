@@ -1,7 +1,7 @@
 /** @jsxImportSource @emotion/react */
 
 import { css } from "@emotion/react";
-import { PokemonCard } from "./PokemonCard";
+import PokemonCard from "./PokemonCard";
 import InfiniteScroll from "react-infinite-scroll-component";
 
 export type PokemonListProps = {
